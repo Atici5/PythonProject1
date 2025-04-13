@@ -1,4 +1,5 @@
 def hello_world():
-print("Hello, world!")   # ← bu satırda girinti hatası var!
+print("Hello, world!")  # ← yanlış girinti (indent) var
 
 hello_world()
+
